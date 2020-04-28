@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,MACE,YAAa,CACb,mCAAqC,CACrC,aACF,CAEA,YACE,qBACF","file":"main.49fc4d50.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\n.post {\n  display: grid;\n  grid-template-columns: repeat(2, 1fr);\n  grid-gap: 10px;\n}\n\n.post__card {\n  border: 2px solid blue;\n}\n"]}
